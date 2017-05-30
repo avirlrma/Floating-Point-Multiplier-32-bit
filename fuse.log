@@ -1,0 +1,25 @@
+Running: /home/d3xt3r/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -intstyle ise -incremental -lib secureip -o /home/d3xt3r/Xilinx/Floating_point_multiplier/multiplier_tb_isim_beh.exe -prj /home/d3xt3r/Xilinx/Floating_point_multiplier/multiplier_tb_beh.prj work.multiplier_tb 
+ISim P.20131013 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/d3xt3r/Xilinx/Floating_point_multiplier/Module.vhd" into library work
+Parsing VHDL file "/home/d3xt3r/Xilinx/Floating_point_multiplier/tb.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 98128 KB
+Fuse CPU Usage: 1400 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling package numeric_std
+Compiling architecture behavioral of entity multiplier_organised [multiplier_organised_default]
+Compiling architecture behavior of entity multiplier_tb
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 8 VHDL Units
+Built simulation executable /home/d3xt3r/Xilinx/Floating_point_multiplier/multiplier_tb_isim_beh.exe
+Fuse Memory Usage: 674012 KB
+Fuse CPU Usage: 1530 ms
+GCC CPU Usage: 4210 ms

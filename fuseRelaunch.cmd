@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/d3xt3r/Xilinx/Floating_point_multiplier/multiplier_tb_isim_beh.exe" -prj "/home/d3xt3r/Xilinx/Floating_point_multiplier/multiplier_tb_beh.prj" "work.multiplier_tb" 
